@@ -1,0 +1,14 @@
+{
+  "name": "payment",
+  "version": "1.0.0",
+  "description": "Payment module for AI Voice-Over Website",
+  "main": "src/paymentGateway.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "dependencies": {
+    "stripe": "^8.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
